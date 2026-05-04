@@ -2,7 +2,14 @@
 
 SQLite ETL for product reviews and a FastAPI service with secured sentiment summaries.
 
-End-to-end mini pipeline: relational schema loads into SQLite via an ETL script, then a secured FastAPI app exposes review sentiment aggregates per product.
+End-to-end workflow: relational schema loads into SQLite via an ETL script, then a secured FastAPI app exposes review sentiment aggregates per product.
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,pandas,sqlite,fastapi" height="48" alt="Python, Pandas, SQLite, FastAPI" />
+</p>
+
+[![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)](https://docs.pydantic.dev)
+[![Uvicorn](https://img.shields.io/badge/Uvicorn-05998B?style=flat&logo=python&logoColor=white&labelColor=44525B)](https://www.uvicorn.org)
 
 Repository: [markrtak/SQLite-ETL-for-product-reviews-and-a-FastAPI-service-with-secured-sentiment-summaries.](https://github.com/markrtak/SQLite-ETL-for-product-reviews-and-a-FastAPI-service-with-secured-sentiment-summaries.)
 
@@ -26,7 +33,7 @@ Generated `reviews_db.sqlite` is listed in `.gitignore`; build it locally before
 
 ## Usage
 
-Run all commands from this directory (`reviews-sentiment-api`).
+Run all commands from the project root.
 
 ### 1. Build the database
 
