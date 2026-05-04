@@ -1,6 +1,10 @@
 # Reviews sentiment API
 
+SQLite ETL for product reviews and a FastAPI service with secured sentiment summaries.
+
 End-to-end mini pipeline: relational schema loads into SQLite via an ETL script, then a secured FastAPI app exposes review sentiment aggregates per product.
+
+Repository: [markrtak/SQLite-ETL-for-product-reviews-and-a-FastAPI-service-with-secured-sentiment-summaries.](https://github.com/markrtak/SQLite-ETL-for-product-reviews-and-a-FastAPI-service-with-secured-sentiment-summaries.)
 
 ## Layout
 
