@@ -4,12 +4,7 @@ SQLite ETL for product reviews and a FastAPI service with secured sentiment summ
 
 End-to-end workflow: relational schema loads into SQLite via an ETL script, then a secured FastAPI app exposes review sentiment aggregates per product.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,pandas,sqlite,fastapi" height="48" alt="Python, Pandas, SQLite, FastAPI" />
-</p>
-
-[![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)](https://docs.pydantic.dev)
-[![Uvicorn](https://img.shields.io/badge/Uvicorn-05998B?style=flat&logo=python&logoColor=white&labelColor=44525B)](https://www.uvicorn.org)
+<p><img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/><img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/><img src="https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/><img src="https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/><img src="https://img.shields.io/badge/PYDANTIC-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic"/><img src="https://img.shields.io/badge/UVICORN-0C9274?style=for-the-badge" alt="Uvicorn"/></p>
 
 Repository: [markrtak/SQLite-ETL-for-product-reviews-and-a-FastAPI-service-with-secured-sentiment-summaries.](https://github.com/markrtak/SQLite-ETL-for-product-reviews-and-a-FastAPI-service-with-secured-sentiment-summaries.)
 
